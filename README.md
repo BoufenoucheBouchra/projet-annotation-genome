@@ -47,3 +47,11 @@ Certaines protéines appartiennent à la famille des lanthionine synthétases (L
 Peptides signal détectés pour la séquence 5, indiquant une sécrétion extracellulaire.
 
 Cartographie préliminaire des unités de transcription : promoteur-CDS-terminateur.
+
+**Points à améliorer  :**  
+
+Revoir l’annotation de CDS1 et des petits gènes.
+
+Vérifier le découpage et la traduction des CDS pour l’annotation fonctionnelle.
+
+Corriger les prédictions de localisation cellulaire avec DeepTMHMM et SignalP.
