@@ -18,51 +18,27 @@ Annotation fonctionnelle via BLASTP et détection de domaines avec InterProScan 
 
 Analyse de la localisation cellulaire et des peptides signal avec SignalP et DeepTMHMM.
 
-Contenu du dépôt
+**Méthodologie **
 
-data/ : Séquences génomiques et résultats intermédiaires.
+ORF Detection :Utilisation de ORFfinder pour identifier les cadres ouverts de lecture (≥300 nt).
 
-scripts/ : Scripts Perl pour transformer les résultats en format GFF.
-
-results/ : Résultats finaux des analyses (GFF, annotations fonctionnelles, prédictions de structure).
-
-figures/ : Figures des ORF, CDS et unités de transcription.
-
-README.md : Ce fichier explicatif.
-
-Méthodologie
-
-ORF Detection
-
-Utilisation de ORFfinder pour identifier les cadres ouverts de lecture (≥300 nt).
-
-Gene Prediction
-
+Gene Prediction:
 GeneMark et GeneMark.hmm pour identifier les CDS.
-
 Sortie graphique pour visualiser les probabilités de codage.
 
-RBS Identification
+RBS Identification :Utilisation de motifs consensus stricts, motifs dégénérés et matrices poids-positions (PWM) via scan_for_matches.
 
-Utilisation de motifs consensus stricts, motifs dégénérés et matrices poids-positions (PWM) via scan_for_matches.
+Annotation des unités de transcription :Recherche de promoteurs sigma A et terminateurs indépendants.
 
-Annotation des unités de transcription
-
-Recherche de promoteurs sigma A et terminateurs indépendants.
-
-Annotation fonctionnelle
-
+Annotation fonctionnelle: 
 BLASTP pour l’homologie protéique.
-
 InterProScan/CD-Search pour détection des domaines fonctionnels.
 
-Localisation cellulaire
-
+Localisation cellulaire:
 SignalP pour les peptides signal.
-
 DeepTMHMM pour les régions transmembranaires.
 
-Résultats principaux
+**Résultats principaux**
 
 Identification de 6 CDS majeurs dans le fragment analysé.
 
