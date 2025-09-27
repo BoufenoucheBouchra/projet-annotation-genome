@@ -1,0 +1,4 @@
+seq_L_lactis_lactis	Patscan	RBS	161	176	.	+	.	note "GGAGG CACTCAAA ATG"
+seq_L_lactis_lactis	Patscan	RBS	6469	6485	.	+	.	note "GGAGG GAAGAGGAA ATG"
+seq_L_lactis_lactis	Patscan	RBS	8071	8086	.	+	.	note "GGAGG GTTTGATA ATG"
+seq_L_lactis_lactis	Patscan	RBS	9397	9411	.	+	.	note "GGAGG TAAAGTG GTG"
