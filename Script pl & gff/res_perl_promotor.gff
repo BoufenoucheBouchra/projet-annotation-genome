@@ -1,0 +1,11 @@
+seq_L_lactis_lactis	Patscan	promotor	111	151	.	+	.	note "TTGCCA TCAATGCTCAGGACGAATATTGCATGATC TATCAT"
+seq_L_lactis_lactis	Patscan	promotor	272	304	.	+	.	note "TTGTAA AACAGGAGCTCTGATGGGTTG TAACAT"
+seq_L_lactis_lactis	Patscan	promotor	1175	1218	.	+	.	note "TTGACT AAAGTTGAAGCAATAGATGAAGATAAAAAATA TATAAT"
+seq_L_lactis_lactis	Patscan	promotor	1527	1561	.	+	.	note "TTGATT CTACATTTGGCATAGGAGCTCCA TATAAT"
+seq_L_lactis_lactis	Patscan	promotor	2123	2152	.	+	.	note "TTGAAA TTCTACATTACAAGCATG TACAAT"
+seq_L_lactis_lactis	Patscan	promotor	3793	3830	.	+	.	note "TTGAAT TAAGTGATTATGAGCAGGCTGATATG TATAAT"
+seq_L_lactis_lactis	Patscan	promotor	4242	4279	.	+	.	note "TTGAAT TTGATAAATATTCTTACGATATTTGC TATGAT"
+seq_L_lactis_lactis	Patscan	promotor	5103	5131	.	+	.	note "TTGAAT GCTGCCAGAAAAGCAAA TAAAAT"
+seq_L_lactis_lactis	Patscan	promotor	5338	5369	.	+	.	note "TTGACT CTCTCTACAGGATTGCCTGG TATAAT"
+seq_L_lactis_lactis	Patscan	promotor	6571	6605	.	+	.	note "TTGACG AAGGAAGTTATACTAATTTTATT TATGAT"
+seq_L_lactis_lactis	Patscan	promotor	9317	9353	.	+	.	note "TTGACT TCCGCTTGAAATCACTTGAGCATTC TACAAT"
