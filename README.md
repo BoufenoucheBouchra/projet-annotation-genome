@@ -55,3 +55,5 @@ Revoir l’annotation de CDS1 et des petits gènes.
 Vérifier le découpage et la traduction des CDS pour l’annotation fonctionnelle.
 
 Corriger les prédictions de localisation cellulaire avec DeepTMHMM et SignalP.
+
+Tous les scripts Perl et fichiers de résultats disponibles dans ce dépôt. Détails complets et analyses graphiques dans le rapport final Projet_BG_final.pdf
