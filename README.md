@@ -1,6 +1,6 @@
 # projet-annotation-genome
-Annotation d’un fragment génomique de Lactococcus lactis
-Description
+**Annotation d’un fragment génomique de Lactococcus lactis**
+
 
 Ce projet a pour objectif l’annotation d’un fragment génomique de la bactérie Lactococcus lactis. L’annotation permet d’identifier les gènes codants pour des protéines (CDS), les ARN non codants, les sites régulateurs (promoteurs, terminateurs), et d’inférer la fonction et la localisation cellulaire des protéines identifiées.
 
