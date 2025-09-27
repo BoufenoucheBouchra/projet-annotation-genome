@@ -18,7 +18,7 @@ Annotation fonctionnelle via BLASTP et détection de domaines avec InterProScan 
 
 Analyse de la localisation cellulaire et des peptides signal avec SignalP et DeepTMHMM.
 
-**Méthodologie **
+**Méthodologie**
 
 ORF Detection :Utilisation de ORFfinder pour identifier les cadres ouverts de lecture (≥300 nt).
 
