@@ -1,0 +1,8 @@
+>seq_L_lactis_lactis:[161,176]
+GGAGG CACTCAAA ATG
+>seq_L_lactis_lactis:[6469,6485]
+GGAGG GAAGAGGAA ATG
+>seq_L_lactis_lactis:[8071,8086]
+GGAGG GTTTGATA ATG
+>seq_L_lactis_lactis:[9397,9411]
+GGAGG TAAAGTG GTG
